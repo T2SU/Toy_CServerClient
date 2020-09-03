@@ -56,3 +56,6 @@ build/
 
 # Build output files
 csvrcli
+
+# VS Code Settings
+.vscode
